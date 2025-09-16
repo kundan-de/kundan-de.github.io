@@ -1,15 +1,16 @@
-# Kundan - Data Engineer
+# Kundan - Senior Data Engineer
 
-__ETL: Extract, Transform, Load... and Hope Nothing Breaks__
+**ETL: Extract, Transform, Load... and Hope Nothing Breaks**
 
-__Location:__ Bengaluru, Karnataka, India  
-__Contact:__ [kpandit15@gmail.com](mailto:kpandit15@gmail.com)  
-__LinkedIn:__ [linkedin.com/in/kundan-243217146](https://www.linkedin.com/in/kundan-243217146)
+**Location:** Bengaluru, Karnataka, India  
+**Contact:** [kpandit15@gmail.com](mailto:kpandit15@gmail.com)  
+**LinkedIn:** [linkedin.com/in/kundan-243217146](https://www.linkedin.com/in/kundan-243217146)
+**Github:** [GitHub Profile](https://github.com/kundan-de)
 
 ---
 
 ## Summary
-6.5+ years of experience as a Data Engineer with a track record of driving operational efficiency and data-driven decision-making.
+6.9+ years of experience as a Data Engineer with a track record of driving operational efficiency and data-driven decision-making.
 
 - Worked with 3 Fortune 500 companies (CITI Bank, Truist Bank, and Elevance Health) as clients in their Sustainability, Customer Experience, Marketing, and Claims domains
 - Proficient in Python, SQL, with a strong emphasis on Spark and Pandas for processing large datasets and optimizing data workflows.
@@ -23,62 +24,57 @@ solutions.
 ---
 
 ## Skills and Expertise
-- __Languages:__ Python, SQL
-- __FrameWork:__ Apache Spark, FastAPI, Streamlit
-- __Data Tools:__ Tableau, Hive, SSMS, Airflow, Databricks, ADF
-- __DevOps:__ Github Actions, Jenkins, Azure DevOps
-- __Cloud:__ AWS, Azure
+- **Languages:** Python, SQL
+- **FrameWork:** Apache Spark, FastAPI, Streamlit
+- **Data Tools:** Tableau, Hive, SSMS, Airflow, Databricks, ADF
+- **DevOps:** Github Actions, Jenkins, Azure DevOps
+- **Cloud:** AWS, Azure
 
 
 ---
 
 ## Experience
 
-### __Louis Dreyfus Company__
-__Data Engineer__
-_(November 2023 - Present | Bangalore Urban, Karnataka, India)_
+### **Louis Dreyfus Company**
+**Data Engineer**
+*(November 2023 - Present | Bangalore Urban, Karnataka, India)*
 
 Worked on a sustainability project to trace commodities from farm to destination port in compliance with the new EUDR
 regulation.
-- Processed data from multiple APIs using Spark and Databricks, stored it in a Data Lake, orchestrated workflows with
+Processed data from multiple APIs using Spark and Databricks, stored it in a Data Lake, orchestrated workflows with
 ADF, and exposed key data via FastAPI to support stakeholder access and ensure EU market eligibility.
-- Skills: __Databricks, Python, SQL, Azure, AzureDevops, FastAPI, Jenkins__
+- Skills: **Databricks, Python, SQL, Azure, AzureDevops, FastAPI, Jenkins**
 
-### __Carelon Global Solutions__
-__Senior Software Engineer__
-_(August 2021 - September 2022 | Bengaluru, Karnataka, India)_
+### **Carelon Global Solutions**
+**Senior Software Engineer**
+*(August 2021 - September 2022 | Bengaluru, Karnataka, India)*
 
 In Elevance Health worked on a claims automation project aimed at streamlining the claims process using machine
 learning models.
-- Built Streamlit dashboards integrated with MongoDB to provide model reasoning, enabling nurses to make informed
+Built Streamlit dashboards integrated with MongoDB to provide model reasoning, enabling nurses to make informed
 decisions.
-- Skills: __Spreamlit, SQL, Python, MongoDB__
+- Skills: **Spreamlit, SQL, Python, MongoDB, AWS**
 
-### __Fractal__
-__Consultant__  
-_(August 2021 - September 2022 | Bengaluru, Karnataka, India)_
+### **Fractal**
+**Consultant** 
+*(August 2021 - September 2022 | Bengaluru, Karnataka, India)*
+
 Worked in the Customer Experience domain at Citibank, building Spark pipelines and dashboards to identify complaint
 types and uncover hidden customer issues for improved service insights.
-- Processed millions of records daily using Spark, stored them in the Hive data warehouse, and implemented end-to-end
+Processed millions of records daily using Spark, stored them in the Hive data warehouse, and implemented end-to-end
 orchestration with Apache Airflow.
-- Skills: __Python, Spark, SQL, Hive, Data Warehousing, Airflow__
+- Skills: **Python, Spark, SQL, Hive, Data Warehousing, Airflow**
 
-### __Infosys__
-__Senior System Engineer__  
-_(July 2018 - July 2021 | Mysore, Karnataka, India)_ 
-Worked with Truist Bank to develop and maintain marketing campaign tracking pipelines, enabling efficient data
-collection, performance analysis, and ROI measurement for targeted marketing initiatives.
-- Skills: __Python, Spark, AWS, SQL, Hive, DB2, Control-M__
+### **Infosys**
+**Senior System Engineer**  
+*(July 2018 - July 2021 | Mysore, Karnataka, India)* 
+
+Worked with Truist Bank to develop and maintain marketing campaign tracking pipelines, enabling efficient data collection, performance analysis, and ROI measurement for targeted marketing initiatives.
+- Skills: **Python, Spark, AWS, SQL, Hive, DB2, Airflow**
 
 ---
 
 ## Education
-__ITM University, Gwalior__  
+**ITM University, Gwalior**
+
 Bachelor of Technology - BTech, Computer Engineering (2014 - 2018)
-
----
-
-## Portfolio
-
-Check out my GitHub for projects and code samples: [GitHub Profile](#)
-
