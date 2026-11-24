@@ -1,80 +1,128 @@
-# Kundan - Senior Data Engineer
+# Kundan Pandit
 
-**ETL: Extract, Transform, Load... and Hope Nothing Breaks**
+**Senior Data Engineer | 8.5+ Years of Experience**
 
-**Location:** Bengaluru, Karnataka, India  
-**Contact:** [kpandit15@gmail.com](mailto:kpandit15@gmail.com)  
-**LinkedIn:** [linkedin.com/in/kundan-243217146](https://www.linkedin.com/in/kundan-243217146)
-**Github:** [GitHub Profile](https://github.com/kundan-de)
+Designing scalable data platforms, distributed processing systems, and reliable data pipelines that transform complex data into actionable business insights.
 
----
+**Location:** Bengaluru, India
 
-## Summary
-6.9+ years of experience as a Data Engineer with a track record of driving operational efficiency and data-driven decision-making.
+**Email:** [kpandit15@gmail.com](mailto:kpandit15@gmail.com)
 
-- Worked with 3 Fortune 500 companies (CITI Bank, Truist Bank, and Elevance Health) as clients in their Sustainability, Customer Experience, Marketing, and Claims domains
-- Proficient in Python, SQL, with a strong emphasis on Spark and Pandas for processing large datasets and optimizing data workflows.
-- Extensive experience in working with Spark, Hive, and Airflow, demonstrating expertise in big data processing and orchestration.
-- Proficient in Python, complex SQL queries, and data modeling, and created data pipelines in Python.
-- Skilled in AWS services including S3, Glue, Redshift, EMR, Lambda, EC2, and Athena, enabling cloud-based data engineering solutions.
-- Designed and optimized MongoDB backend for efficient data retrieval from various data sources, showcasing a deep understanding of database optimization.
-- Proficient in Tableau, with a track record of creating intuitive, accurate dashboards and data models for it.
-- Committed to staying updated with emerging technologies, leveraging a passion for innovation to bring cutting-edge
-solutions.
----
+**LinkedIn:** [linkedin.com/in/kundan-243217146](https://www.linkedin.com/in/kundan-243217146/)
 
-## Skills and Expertise
-- **Languages:** Python, SQL
-- **FrameWork:** Apache Spark, FastAPI, Streamlit
-- **Data Tools:** Tableau, Hive, SSMS, Airflow, Databricks, ADF
-- **DevOps:** Github Actions, Jenkins, Azure DevOps
-- **Cloud:** AWS, Azure
-
+**GitHub:** [github.com/kundan-de](https://github.com/kundan-de)
 
 ---
 
-## Experience
+## Professional Summary
 
-### **Louis Dreyfus Company**
-**Data Engineer**
-*(November 2023 - Present | Bangalore Urban, Karnataka, India)*
+Senior Data Engineer with 8.5+ years of experience designing, developing, and optimizing large-scale data engineering solutions across sustainability, banking, healthcare, customer experience, marketing, claims, and financial domains.
 
-Worked on a sustainability project to trace commodities from farm to destination port in compliance with the new EUDR
-regulation.
-Processed data from multiple APIs using Spark and Databricks, stored it in a Data Lake, orchestrated workflows with
-ADF, and exposed key data via FastAPI to support stakeholder access and ensure EU market eligibility.
-- Skills: **Databricks, Python, SQL, Azure, AzureDevops, FastAPI, Jenkins**
+Experienced in building scalable ETL/ELT pipelines, distributed data processing systems, and enterprise data platforms using Python, SQL, Apache Spark, PySpark, Pandas, Hive, and Databricks.
 
-### **Carelon Global Solutions**
-**Senior Software Engineer**
-*(August 2021 - September 2022 | Bengaluru, Karnataka, India)*
+Proficient in developing end-to-end data workflows, implementing data transformation and integration strategies, and orchestrating complex pipelines using Apache Airflow and Azure Data Factory. Hands-on experience with AWS and Azure cloud ecosystems, data warehousing, and API-based data integration.
 
-In Elevance Health worked on a claims automation project aimed at streamlining the claims process using machine
-learning models.
-Built Streamlit dashboards integrated with MongoDB to provide model reasoning, enabling nurses to make informed
-decisions.
-- Skills: **Spreamlit, SQL, Python, MongoDB, AWS**
+Delivered enterprise data solutions for organizations including Citi Bank, Truist Bank, and Elevance Health, focusing on operational efficiency, data reliability, automation, and enabling data-driven business decisions.
 
-### **Fractal**
-**Consultant** 
-*(August 2021 - September 2022 | Bengaluru, Karnataka, India)*
+---
 
-Worked in the Customer Experience domain at Citibank, building Spark pipelines and dashboards to identify complaint
-types and uncover hidden customer issues for improved service insights.
-Processed millions of records daily using Spark, stored them in the Hive data warehouse, and implemented end-to-end
-orchestration with Apache Airflow.
-- Skills: **Python, Spark, SQL, Hive, Data Warehousing, Airflow**
+## Technical Skills
 
-### **Infosys**
-**Senior System Engineer**  
-*(July 2018 - July 2021 | Mysore, Karnataka, India)* 
+- **Programming Languages:** Python, SQL
+- **Big Data & Processing:** Apache Spark, PySpark, Pandas, Distributed Data Processing, Large-Scale ETL/ELT
+- **Data Platforms & Warehousing:** Databricks, Apache Hive, Amazon Redshift, DB2, SQL Server
+- **Orchestration & Integration:** Apache Airflow, Azure Data Factory, ETL Pipeline Development, API Integration, Workflow Automation
+- **Cloud Platforms:** Microsoft Azure, Amazon Web Services (AWS)
+- **Frameworks & Development:** FastAPI, Streamlit
+- **Databases:** MongoDB, Hive, Redshift, DB2
+- **DevOps & CI/CD:** Git, GitHub Actions, Jenkins, Azure DevOps
+- **Analytics & Visualization:** Tableau, Streamlit
 
-Worked with Truist Bank to develop and maintain marketing campaign tracking pipelines, enabling efficient data collection, performance analysis, and ROI measurement for targeted marketing initiatives.
-- Skills: **Python, Spark, AWS, SQL, Hive, DB2, Airflow**
+---
+
+## Professional Experience
+
+### Louis Dreyfus Company
+
+**Data Engineer | November 2023 - Present**
+
+Working on an enterprise sustainability platform focused on commodity traceability, tracking products from farm to destination port and supporting compliance with the European Union Deforestation Regulation (EUDR).
+
+- Designed and developed scalable data processing pipelines using Python, Apache Spark, and Databricks to ingest and transform data from multiple external APIs.
+- Implemented data integration and transformation workflows to process complex datasets across different sources.
+- Managed and governed data within cloud-based data lake architecture to support downstream analytics and reporting.
+- Orchestrated end-to-end data workflows using Azure Data Factory.
+- Developed REST APIs using FastAPI to expose validated data and support stakeholder access to sustainability information.
+- Contributed to data traceability and compliance initiatives supporting EU market eligibility.
+
+**Technologies:** Python, SQL, Apache Spark, Databricks, Azure, Azure Data Factory, FastAPI, Azure DevOps, Jenkins.
+
+### Carelon Global Solutions
+
+**Senior Software Engineer | August 2021 - September 2022**
+
+Worked with Elevance Health on a claims automation initiative leveraging machine learning models to improve claims processing and operational decision-making.
+
+- Developed interactive Streamlit dashboards to present machine learning model results, predictions, and decision reasoning.
+- Integrated dashboard applications with MongoDB to enable efficient access to clinical and model-related data.
+- Built data processing and integration components using Python and SQL.
+- Enabled healthcare professionals, including nurses, to interpret model outputs and make informed operational decisions.
+- Contributed to improving visibility and usability of machine learning-driven claims workflows.
+
+**Technologies:** Python, SQL, Streamlit, MongoDB, AWS.
+
+### Fractal
+
+**Consultant | August 2021 - September 2022**
+
+Worked with Citi Bank in the customer experience domain, developing data pipelines and analytical solutions to identify customer complaint patterns and uncover insights into customer experience.
+
+- Designed and developed large-scale data processing pipelines using Python and Apache Spark.
+- Processed millions of records daily to support customer complaint analysis and reporting.
+- Implemented data transformation workflows and stored processed datasets in Apache Hive.
+- Orchestrated end-to-end data workflows using Apache Airflow.
+- Enabled analytical reporting to identify complaint categories, customer pain points, and opportunities for service improvement.
+
+**Technologies:** Python, Apache Spark, SQL, Hive, Airflow, Data Warehousing.
+
+### Infosys
+
+**Senior Systems Engineer | July 2018 - July 2021**
+
+Worked with Truist Bank on enterprise marketing analytics and campaign tracking solutions, supporting campaign performance measurement and ROI analysis.
+
+- Developed and maintained scalable data pipelines using Python and Apache Spark.
+- Built data processing workflows to consolidate and transform marketing campaign information.
+- Leveraged Apache Hive and DB2 for data storage, querying, and analytical workloads.
+- Automated recurring data workflows and scheduling using Apache Airflow.
+- Supported campaign performance analysis and ROI measurement through reliable data integration and transformation pipelines.
+- Improved operational efficiency through workflow automation and reusable data processing components.
+
+**Technologies:** Python, Apache Spark, SQL, Hive, DB2, AWS, Airflow.
+
+---
+
+## Industry Experience
+
+- **Sustainability:** Commodity traceability, data integration, and regulatory compliance
+- **Banking & Financial Services:** Customer analytics, marketing campaign tracking, and financial data processing
+- **Healthcare:** Claims automation, machine learning integration, and clinical data applications
+- **Customer Experience:** Complaint analysis, customer insights, and analytical reporting
+
+## Enterprise Clients
+
+Citi Bank | Truist Bank | Elevance Health | Louis Dreyfus Company
 
 ---
 
 ## Education
+
 **ITM University, Gwalior**
 
-Bachelor of Technology - BTech, Computer Engineering (2014 - 2018)
+Bachelor of Technology (B.Tech) - Computer Engineering
+
+2014 - 2018
+
+---
+
+© 2026 Kundan Pandit. All rights reserved.
