@@ -1,5 +1,4 @@
-title: Kundan Pandit
-logo: /assets/img/profile-pic.jpg
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+title: "Kundan Pandit"
+description: "Senior Data Engineer"
+baseurl: ""
+url: "https://kundan-de.github.io"
